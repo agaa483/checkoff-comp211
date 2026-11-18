@@ -77,9 +77,6 @@ Long job first:
 
 Try changing the arrays in `main` to test your own jobs and orders.
 
-## Presentation
-
-My slides are in [`slides/FCFS_Scheduling.pdf`](slides/FCFS_Scheduling.pdf).
 
 ## Resources
 - AI conversation I used to learn the topic: https://claude.ai/share/a8fb115c-e893-4183-8fb8-e98723551cad
